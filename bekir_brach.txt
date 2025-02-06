@@ -1,0 +1,3 @@
+bu branch sunucudan açıldı ve bu dosya güncellendi
+güncellendikten sonra main ile merge oldu
+ve en son github'a pushlandı.
